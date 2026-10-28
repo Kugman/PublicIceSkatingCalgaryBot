@@ -1,0 +1,526 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calgary-skate-bot//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calgary Public Skating
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:30d81155e7d541d03b0a62dc00dec0eeeea0c0c0@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261027T093000
+DTEND;TZID=America/Edmonton:20261027T110000
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:2103cec7f886dc4a05203915f2c23f0ab1218855@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261027T151500
+DTEND;TZID=America/Edmonton:20261027T161500
+SUMMARY:⛸️ Public Skate – Murray Copot Arena
+LOCATION:Murray Copot Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:900deccc1f7cb070b5eb290cdf17c32c330c9345@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261027T161500
+DTEND;TZID=America/Edmonton:20261027T174500
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:8355c21c84f98f6b50298a9e73ecefdb2552a218@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261028T093000
+DTEND;TZID=America/Edmonton:20261028T110000
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:0016042ced9f176052a05fcdc13f9895a0edafc1@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261028T100000
+DTEND;TZID=America/Edmonton:20261028T113000
+SUMMARY:⛸️ Public Skate – Murray Copot Arena
+LOCATION:Murray Copot Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:4599c7c0e99491e0461dbd431906cb804b9bb1d9@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261028T114500
+DTEND;TZID=America/Edmonton:20261028T131500
+SUMMARY:⛸️ Public Skate – Jimmie Condon Arena
+LOCATION:Jimmie Condon Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:ff48c1b589f827efa05fe56fcf89474caddf8826@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261028T190000
+DTEND;TZID=America/Edmonton:20261028T203000
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:2c588b5cfebff58958a6f9bb45ecae8039e4face@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261029T151500
+DTEND;TZID=America/Edmonton:20261029T161500
+SUMMARY:⛸️ Public Skate – Murray Copot Arena
+LOCATION:Murray Copot Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:1528500f922eaab64060da92079b3666e46a7f14@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261029T151500
+DTEND;TZID=America/Edmonton:20261029T164500
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:c6b6a198fd2281048596662227ab97158a020a9d@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261029T184500
+DTEND;TZID=America/Edmonton:20261029T201500
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:8f38c55e3718c8e54428151ab026c04447999a6e@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261029T190000
+DTEND;TZID=America/Edmonton:20261029T203000
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:efe2b46c21216624799d72d26d18e67b4ff60c21@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261030T150000
+DTEND;TZID=America/Edmonton:20261030T170000
+SUMMARY:⛸️ Public Skate – Murray Copot Arena
+LOCATION:Murray Copot Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:fda0ae983aa9f2ecddd42710b3023f7245fbdf3e@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261030T184500
+DTEND;TZID=America/Edmonton:20261030T201500
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:7ccb0436d5702f6669ba5cb212311583e46d54de@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261030T190000
+DTEND;TZID=America/Edmonton:20261030T203000
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:5810709e55b995560eead8efbcf0ad90625fe47a@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261030T201500
+DTEND;TZID=America/Edmonton:20261030T214500
+SUMMARY:⛸️ Public Skate – Rose Kohn Arena
+LOCATION:Rose Kohn Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:eed123f0cfc2eb295103b9758ad3d74d267d788d@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261031T120000
+DTEND;TZID=America/Edmonton:20261031T133000
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:2039ef4d9ca4188131c578aaf9073981cc20a9cc@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261031T140000
+DTEND;TZID=America/Edmonton:20261031T153000
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:209069e4c8ee38d893da65fb25a6e96c59f1566d@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261031T180000
+DTEND;TZID=America/Edmonton:20261031T201500
+SUMMARY:⛸️ Public Skate – Rose Kohn Arena
+LOCATION:Rose Kohn Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2bf67349585f059aefae583783f8a344345f85@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261101T120000
+DTEND;TZID=America/Edmonton:20261101T133000
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:827f9bedcb593273ecf584e1be08b918cb3c2840@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261101T121500
+DTEND;TZID=America/Edmonton:20261101T134500
+SUMMARY:⛸️ Public Skate – George Blundun Arena
+LOCATION:George Blundun Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:3a26d491dd7cd945cc06a953c01266776b3347a4@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261101T140000
+DTEND;TZID=America/Edmonton:20261101T153000
+SUMMARY:⛸️ Public Skate – Stew Hendry Arena
+LOCATION:Stew Hendry Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:abea2f63dd1fbfab3b00694307183b7389dc0034@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261101T153000
+DTEND;TZID=America/Edmonton:20261101T170000
+SUMMARY:⛸️ Public Skate – Murray Copot Arena
+LOCATION:Murray Copot Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:2d8e7ba5ec9dfc32c639efdad0710b678466ba8d@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261101T154500
+DTEND;TZID=America/Edmonton:20261101T171500
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:05a6a4ba45a4b73d2c2c96bea52fe5594f22eae8@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261102T093000
+DTEND;TZID=America/Edmonton:20261102T110000
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:fd59e9e61cccdfebec3df45689e6bd4a1636d0c7@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261102T190000
+DTEND;TZID=America/Edmonton:20261102T203000
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:eb69b08b81490087968caa4a5cbe6282d77d4f69@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261103T093000
+DTEND;TZID=America/Edmonton:20261103T110000
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:7450aaee908ea6ef7b4b2f1327f8a60186b8b96f@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261103T151500
+DTEND;TZID=America/Edmonton:20261103T161500
+SUMMARY:⛸️ Public Skate – Murray Copot Arena
+LOCATION:Murray Copot Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:72bb233472b6a51b58d63028fd21b30e476752eb@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261103T161500
+DTEND;TZID=America/Edmonton:20261103T174500
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:c86a7a8b11779d1c38aad549b1f0ca98078e57cd@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261104T093000
+DTEND;TZID=America/Edmonton:20261104T110000
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:b9186b5a4030cf2a61c9652c770a89c24d43b360@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261104T100000
+DTEND;TZID=America/Edmonton:20261104T113000
+SUMMARY:⛸️ Public Skate – Murray Copot Arena
+LOCATION:Murray Copot Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:2007ff0a32f134d20cf61b9bf97d22e346dd93ad@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261104T114500
+DTEND;TZID=America/Edmonton:20261104T131500
+SUMMARY:⛸️ Public Skate – Jimmie Condon Arena
+LOCATION:Jimmie Condon Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:a72eb8578ff1d5e74289006cc5ed2025f0644d9b@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261104T190000
+DTEND;TZID=America/Edmonton:20261104T203000
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:a71afdd992a0ed734ac8fdc311c7a3d047736ceb@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261105T151500
+DTEND;TZID=America/Edmonton:20261105T161500
+SUMMARY:⛸️ Public Skate – Murray Copot Arena
+LOCATION:Murray Copot Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:1375c603fe6f260f385a51f7dc0378144f4b0a2a@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261105T151500
+DTEND;TZID=America/Edmonton:20261105T164500
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:d3907064535f5ab9a1376a6320bcb98797e3a1ef@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261105T184500
+DTEND;TZID=America/Edmonton:20261105T201500
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:0db76a950b37afa7ef40cf902e10a4ba9abb64c4@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261105T190000
+DTEND;TZID=America/Edmonton:20261105T203000
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:b9909f15510af76c22bce297c1fbe96b3a62a06f@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261106T150000
+DTEND;TZID=America/Edmonton:20261106T170000
+SUMMARY:⛸️ Public Skate – Murray Copot Arena
+LOCATION:Murray Copot Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:48fa19cb0d922e47494852773d903c08310fd912@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261106T184500
+DTEND;TZID=America/Edmonton:20261106T201500
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:4202593907b785276afbeffc84fe3f0dcec9b1cf@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261106T190000
+DTEND;TZID=America/Edmonton:20261106T203000
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:91864dc3dd43c46f28f109b424f9dd06fc0c3398@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261106T201500
+DTEND;TZID=America/Edmonton:20261106T214500
+SUMMARY:⛸️ Public Skate – Rose Kohn Arena
+LOCATION:Rose Kohn Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:c8d16aa4aa1c45b0b04bd2954cc4c98f601b7896@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261107T120000
+DTEND;TZID=America/Edmonton:20261107T133000
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:309527fefd79b4bdb23cd5655c655ecaa910aafa@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261107T140000
+DTEND;TZID=America/Edmonton:20261107T153000
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:db3481931fe0f1a717012388c1e2d43e60c55de5@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261107T180000
+DTEND;TZID=America/Edmonton:20261107T201500
+SUMMARY:⛸️ Public Skate – Rose Kohn Arena
+LOCATION:Rose Kohn Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:96a9ef9f018b23eddca6d532b8490314f35078d2@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261108T120000
+DTEND;TZID=America/Edmonton:20261108T133000
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:f7d6033940eab7a038af872b623c70c77cfd708f@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261108T121500
+DTEND;TZID=America/Edmonton:20261108T134500
+SUMMARY:⛸️ Public Skate – George Blundun Arena
+LOCATION:George Blundun Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:94f0708da887e7997ae294416593ba0f39d50557@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261108T140000
+DTEND;TZID=America/Edmonton:20261108T153000
+SUMMARY:⛸️ Public Skate – Stew Hendry Arena
+LOCATION:Stew Hendry Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:a51852d972671d500b17d9f324dec81b8c584605@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261108T153000
+DTEND;TZID=America/Edmonton:20261108T170000
+SUMMARY:⛸️ Public Skate – Murray Copot Arena
+LOCATION:Murray Copot Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:3f50f02aa51f4e6278d12ad3d94ca0a7eaa00a4d@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261108T154500
+DTEND;TZID=America/Edmonton:20261108T171500
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:a6856025124fa3e076214a1105579246adc47c6e@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261109T093000
+DTEND;TZID=America/Edmonton:20261109T110000
+SUMMARY:⛸️ Public Skate – Southland (Ed Whalen Arena)
+LOCATION:Southland (Ed Whalen Arena)\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+BEGIN:VEVENT
+UID:3525edaeca1babd60b22ceb54a830d0b8cb10eee@calgary-skate
+DTSTAMP:20261028T043055Z
+DTSTART;TZID=America/Edmonton:20261109T190000
+DTEND;TZID=America/Edmonton:20261109T203000
+SUMMARY:⛸️ Public Skate – Village Square Wally Kozak Arena
+LOCATION:Village Square Wally Kozak Arena\, Calgary\, AB
+DESCRIPTION:Drop-in only\, no reservation needed. Adult $6.30 · Senior $4.50 · Youth $3.20 · Child $2.80 · Family $12.90\nhttps://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+URL:https://liveandplay.calgary.ca/REGPROG/public/category/browse/PublicSkate
+END:VEVENT
+END:VCALENDAR
